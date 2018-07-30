@@ -1,0 +1,35 @@
+{
+  "name": "tumblr_practice",
+  "version": "1.0.0",
+  "description": "Tumblr practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tefazuvi/Tumblr_Practice.git"
+  },
+  "author": "Stephanie Zuniga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tefazuvi/Tumblr_Practice/issues"
+  },
+  "homepage": "https://github.com/Tefazuvi/Tumblr_Practice#readme",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.2.0",
+    "concurrently": "^3.6.1",
+    "copy-and-watch": "^0.1.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-stylelint": "^7.0.0",
+    "gulp-webserver": "^0.9.1",
+    "live-server": "^1.2.0",
+    "node-sass": "^4.9.2",
+    "stylelint": "^9.4.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.2",
+    "jquery": "^3.3.1"
+  }
+}
